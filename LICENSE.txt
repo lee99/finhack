@@ -11,12 +11,12 @@
 
 
 ;设置规则标志位
+ruleset=🌈 OpenAI,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/Ruleset/OpenAi.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/BanAD.list
 ruleset=🍃 应用净化,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/BanProgramAD.list
 ruleset=📢 谷歌FCM,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/Ruleset/GoogleFCM.list
-ruleset=🌈 OpenAI,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/Ruleset/OpenAi.list
 ruleset=🌈 CiciAI,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/Ruleset/CiciAi.list
 ruleset=🌈 Perplexity,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/Ruleset/perplexity.list
 ruleset=Ⓜ️ 微软服务,https://raw.githubusercontent.com/szkane/ClashRuleSet/main/Clash/OneDrive.list
